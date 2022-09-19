@@ -4,9 +4,9 @@ online job potal application where user  apply and post a job
       a) Frontend 
             Html,  CSS, 
       b) Backend  
-            Node.js Express 
+            python Django 
       c) Database 
-             MongoDB
+             PostgresQl
        d) Deployment 
               heroku
               
